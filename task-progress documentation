@@ -1,0 +1,49 @@
+List to do: PART 1 CODE DONE
+
+full packed that the user cant abuse the program
+
+NAMES (Given/Middle/Last): DONE
+- ALL CAPITAL LETTERS ONLY: DONE
+
+Error/s: ALL DONE
+- NUMBER INPUT (0-9): DONE
+- ALL SMALL LETTERS: DONE
+- SPECIAL CHARACTERS (!@#$%^&*()_+-={}[]|\"'<>,.?/): DONE
+- JeJeMoN TyPiNgS: DONE
+
+-------DROPDOWN---------
+SUFFIX: ALL DONE
+- Only at 5th Suffix (Sr./Jr/II/III/IV/V): DONE
+N/A CHECK
+SEX: DONE
+- Only 3 are respected. (MALE/FEMALE/NOT SPECIFIED): DONE
+
+AGE: DONE
+- Maximum age should be 150 and below. DONE
+- No negative sign check
+-------DROPDOWN--------
+
+Error: ALL DONE
+- Above 150, should get and error. DONE
+-No negaive sign check
+POSITION: DONE
+- Dropdown and only some "famous" or "common" jobs are included but there's should be and editable tab where we can put other jobs that aren't listed at the dropdown. DONE
+
+SALARY PER HOUR: DONE
+- Any number is acceptable. DONE
+
+Error: ALL DONE
+- Letters aren't allowed. DONE
+- Negative number shouldn't be allowed. DONE
+
+
+--------------------
+WHOLE ERROR/S: ALL DONE
+
+- EVERYTIME SOMEONE INPUTTED AN DATA, THERE'S SHOULD BE AND CONFIRMATION. DONE
+
+- DOUBLE INFO NOT BE ALLOWED, AFTER SOMEONE INPUT AN DATA, THE FORM SHOULD CLEAR ALL THE THINGS AND START A NEW FORM TAB. DONE
+
+- THIS IS A PROGRESS REPORT ABOUT THE CODE THAT WE ARE DEVELOPING. I CREATED THIS BECAUSE I WANT TO DOCUMENT THIS PROJECT THAT WE ARE DOING..
+
+- Edit button gets the data back to the entries nd dropdowns for the user to be easy to change what needs to be changed and to prevent more mistype infos DONE
