@@ -1,0 +1,48 @@
+List to do: PART 1 CODE ALL DONE
+
+#THIS IS MY PROGRESS DOCUMENTATION.
+
+NAMES (Given/Middle/Last):
+- ALL CAPITAL LETTERS ONLY
+
+Error/s:
+- NUMBER INPUT (0-9)
+- ALL SMALL LETTERS
+- SPECIAL CHARACTERS (!@#$%^&*()_+-={}[]|\"'<>,.?/)
+- JeJeMoN TyPiNgS 
+
+SUFFIX:
+- Only at 5th Suffix (Sr./Jr/II/III/IV/V)
+
+SEX:
+- Only 3 are respected. (MALE/FEMALE/NOT SPECIFIED)
+
+AGE:
+- Maximum age should be 150 and below.
+
+Error:
+- Above 150, should get and error.
+
+POSITION:
+- Dropdown and only some "famous" or "common" jobs are included but there's should be and editable tab where we can put other jobs that aren't listed at the dropdown.
+
+SALARY PER HOUR:
+- Any number is acceptable.
+
+Error:
+- Letters aren't allowed.
+- Negative number shouldn't be allowed.
+
+
+--------------------
+WHOLE ERROR/S:
+
+- EVERYTIME SOMEONE INPUTTED AN DATA, THERE'S SHOULD BE AND CONFIRMATION.
+
+- DOUBLE INFO NOT BE ALLOWED, AFTER SOMEONE INPUT AN DATA, THE FORM SHOULD CLEAR ALL THE THINGS AND START A NEW FORM TAB.
+
+- 
+
+- 
+
+-
